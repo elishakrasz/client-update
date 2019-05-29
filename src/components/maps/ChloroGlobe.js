@@ -34,6 +34,7 @@ const wrapperStyles = {
 }
 
 class ChloroGlobe extends Component {
+  
   render() {
     return (
       <div style={wrapperStyles}>
