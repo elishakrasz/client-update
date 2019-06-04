@@ -23,7 +23,7 @@ export const FooterTest = () => {
                 <List.Item as='a'>Our Mission</List.Item>
                 <List.Item as='a'>History</List.Item>
                 <List.Item as='a'>What We Do</List.Item>
-                <List.Item as='a'>Values</List.Item>
+                <List.Item as='a'>Our Values</List.Item>
               </List>
               <Header inverted as='h4' content='-' />
               <List link inverted>

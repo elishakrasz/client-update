@@ -8,6 +8,7 @@ import {
     Divider,
     Container
   } from "semantic-ui-react";
+import Videos from './Videos';
 
 export default () => {
   return (
@@ -36,24 +37,18 @@ export default () => {
         </Grid.Row>
       </Grid>
     </Segment>
-     <Segment style={{ padding: '5em' }} vertical>
+    <Segment style={{ padding: '5em' }} vertical>
       <Grid celled='internally' columns='equal' stackable>
         <Grid.Row textAlign='center'>
           <Grid.Column style={{ paddingBottom: '5em', paddingTop: '5em' }}>
-            <Header as='h3' style={{ fontSize: '2em' }}>
-              Igbo
+            <Header as='h3' style={{ fontSize: '2.5em' }}>
+              Some Things We Do
             </Header>
             
           </Grid.Column>
           <Grid.Column style={{ paddingBottom: '5em', paddingTop: '5em' }}>
-            <Header as='h3' style={{ fontSize: '2em' }}>
-              Pashtun
-            </Header>
-            
-          </Grid.Column>
-          <Grid.Column style={{ paddingBottom: '5em', paddingTop: '5em' }}>
-            <Header as='h3' style={{ fontSize: '2em' }}>
-              Shinto
+            <Header as='h3' style={{ fontSize: '2.5em' }}>
+              ?Jewish Atlas
             </Header>
             
           </Grid.Column>
@@ -72,18 +67,24 @@ export default () => {
         </Grid.Row>
       </Grid>
     </Segment>
-    <Segment style={{ padding: '5em' }} vertical>
+     <Segment style={{ padding: '5em' }} vertical>
       <Grid celled='internally' columns='equal' stackable>
         <Grid.Row textAlign='center'>
           <Grid.Column style={{ paddingBottom: '5em', paddingTop: '5em' }}>
-            <Header as='h3' style={{ fontSize: '2.5em' }}>
-              ?Some Things We Do
+            <Header as='h3' style={{ fontSize: '2em' }}>
+              Igbo
             </Header>
             
           </Grid.Column>
           <Grid.Column style={{ paddingBottom: '5em', paddingTop: '5em' }}>
-            <Header as='h3' style={{ fontSize: '2.5em' }}>
-              ?Jewish Atlas
+            <Header as='h3' style={{ fontSize: '2em' }}>
+              Pashtun
+            </Header>
+            
+          </Grid.Column>
+          <Grid.Column style={{ paddingBottom: '5em', paddingTop: '5em' }}>
+            <Header as='h3' style={{ fontSize: '2em' }}>
+              Shinto
             </Header>
             
           </Grid.Column>

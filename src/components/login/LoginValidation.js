@@ -53,6 +53,8 @@ export default class LoginValidation extends Component {
       // localStorage.setItem("token", data.login.token);
       //   await this.props.refetch();
       console.log('response', data.login)
+      console.log('sessionId', data.login.sessionId)
+      console.log('userName', data.login.user.firstName)
       this.clearState();
       this.props.history.push("/");
     });
