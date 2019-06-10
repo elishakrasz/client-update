@@ -31,7 +31,7 @@ export class Map extends Component {
         <ComposableMap
           projectionConfig={{ scale: 235 }}
           width={980}
-          height={651}
+          height={551}
           style={{
             marginTop: '2em',
             width: "100%",
@@ -55,7 +55,7 @@ export class Map extends Component {
                           outline: "none",
                         },
                         hover: {
-                          fill: "#ECEFF1",
+                          fill: "#318700",
                           stroke: "#607D8B",
                           strokeWidth: 0.75,
                           outline: "none",

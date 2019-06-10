@@ -21,7 +21,10 @@ export class Connectitribe extends Component {
           <Form.Field control={Input} label='Email' placeholder='Email' />
           {/* <Form.Field control={Select} label='Gender' options={options} placeholder='Gender' /> */}
         </Form.Group>
-        <Form.Group inline>
+        <Form.Group>
+            <Form.Field control={Input} label='Location' placeholder='Location' />
+        </Form.Group>
+        {/* <Form.Group inline>
           <label>Quantity</label>
           <Form.Field
             control={Radio}
@@ -44,7 +47,7 @@ export class Connectitribe extends Component {
             checked={value === '3'}
             onChange={this.handleChange}
           />
-        </Form.Group>
+        </Form.Group> */}
         <Form.Field control={TextArea} label='About' placeholder='Tell us more about you...' />
         <Form.Field control={Checkbox} label='I agree to the Terms and Conditions' />
         <Form.Field control={Button}>Submit</Form.Field>

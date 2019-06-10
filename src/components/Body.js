@@ -24,6 +24,7 @@ import './Body.css'
 import { panes } from './Panes'
 import { CardGroupTest } from './CardGroupTest';
 import { Connectitribe } from './ConnectItribe';
+import MultiCarousel from './MultiCarousel';
 const itribeCourse = "https://www.youtube.com/watch?v=I3zlHtFE8kw";
 
 const backGroundVideo = {
@@ -74,29 +75,29 @@ export default () => {
     {/* <CardGroupTest /> */}
     <div style={{ padding: '0em', backgroundColor: '#f3f5f9', marginTop: '8em' }} vertical>
       <Grid celled='internally' columns='equal' stackable>
-        <Grid.Row textAlign='center'>
-          <Grid.Column width={5} style={{ paddingBottom: '5em', paddingTop: '4em', marginBottom: '3em',height: '30vh' }}>
-            <Header as='h3' style={{ fontSize: '2em', paddingRight: '1em', paddingLeft: '1em' }}>
+        <Grid.Row textAlign='center' style={{ height: '30vh'  }}>
+          <Grid.Column width={5} style={{ paddingBottom: '5em', paddingTop: '4em', marginBottom: '3em'}}>
+            <Header as='h3' style={{ fontSize: '1.5em', paddingRight: '1em', paddingLeft: '1em' }}>
             Our approach is to work with each community where they are and as they are; we are agnostic to national and religious identity.
             </Header>
-            <span style={{ fontSize: '1.2em' }}>
+            <span style={{ fontSize: '1.1em' }}>
             We seek to create connections based on self-declared historic family (national) relationships and to embrace all people, creating an alliance with those who wish to connect to a common heritage.
             </span>
           </Grid.Column>
-          <Grid.Column width={5} style={{ paddingBottom: '5em', paddingTop: '4em', marginBottom: '3em',height: '30vh' }}>
-            <Header as='h3' style={{ fontSize: '2em' }}>
-            iTribe is  nations living side by creating a common space for people to share and connect. 
+          <Grid.Column width={5} style={{ paddingBottom: '5em', paddingTop: '4em', marginBottom: '3em' }}>
+            <Header as='h3' style={{ fontSize: '1.5em' }}>
+            iTribe facilitates nations living side by creating a common space for people to share and connect. 
             </Header>
-            <span style={{ fontSize: '1.2em' }}>
+            <span style={{ fontSize: '1em' }}>
             Through building a socially driven digital platform with a focus in the areas of research, education, sustainability, advocacy, diplomacy and security for these ‘Lost Tribes’ communities, an opportunity to create a global voice arises.
             </span>
           </Grid.Column>
-          <Grid.Column width={5} style={{ paddingBottom: '5em', paddingTop: '4em', marginBottom: '3em',height: '30vh' }}>
-            <Header as='h3' style={{ fontSize: '2em' }}>
-             21st Century Opportunities
+          <Grid.Column width={5} style={{ paddingBottom: '5em', paddingTop: '4em', marginBottom: '3em' }}>
+            <Header as='h3' style={{ fontSize: '1.5em' }}>
+             21st Century Opportunities. Mapping the Greater Disapora
             </Header>
-            <span style={{ fontSize: '1.2em' }}>
-            Unique and compelling Israel/Jewish impact social investment opportunity facing a massive and historically untapped market.
+            <span style={{ fontSize: '1em' }}>
+            Unique and compelling Israel/Jewish impact social investment opportunity facing a massive and historically untapped market. Mapping the traditions and practices of halachic Jews all over the world as well self-identifying connected individuals and communities.
             </span>
           </Grid.Column>
         </Grid.Row>
@@ -132,7 +133,7 @@ export default () => {
         </Grid.Row>
       </Grid>
     </Segment>
-     <Segment style={{ padding: '5em' }} vertical>
+     {/* <Segment style={{ padding: '5em' }} vertical>
       <Grid celled='internally' columns='equal' stackable>
         <Grid.Row textAlign='center'>
           <Grid.Column style={{ paddingBottom: '5em', paddingTop: '5em' }}>
@@ -153,9 +154,11 @@ export default () => {
             </Header>
             
           </Grid.Column>
+          
         </Grid.Row>
       </Grid>
-    </Segment>
+    </Segment> */}
+    <MultiCarousel />
       </div>
   )
 }

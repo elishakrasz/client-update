@@ -8774,6 +8774,11 @@ react-move@^5.0.0:
     prop-types "^15.7.2"
     react-lifecycles-compat "^3.0.4"
 
+react-multi-carousel@^1.4.3:
+  version "1.4.3"
+  resolved "https://registry.yarnpkg.com/react-multi-carousel/-/react-multi-carousel-1.4.3.tgz#c97978061db44d42267e3ad8e20918ab0965a9b4"
+  integrity sha512-udpKwlP8oBXqaqDr21g1BA+uvL/enDx7wCszLoh1UyipbFVdEPQF0qbioJVUv7xV2klsh+HpOHh+lO5SOnFf5A==
+
 react-overlays@^0.8.3:
   version "0.8.3"
   resolved "https://registry.yarnpkg.com/react-overlays/-/react-overlays-0.8.3.tgz#fad65eea5b24301cca192a169f5dddb0b20d3ac5"
