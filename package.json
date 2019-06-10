@@ -42,7 +42,8 @@
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.86.0",
     "styled-components": "^4.2.0",
-    "victory": "^32.2.3"
+    "victory": "^32.2.3",
+    "video-react": "^0.13.7"
   },
   "scripts": {
     "start": "react-scripts start",

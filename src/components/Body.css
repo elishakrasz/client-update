@@ -1,0 +1,7 @@
+.ui.secondary.vertical.pointing.menu .item {
+    font-size: 1.3em
+}
+
+.ui.grid>.row>.stretched.column>*, .ui.grid>.stretched.column:not(.row)>*, .ui.grid>.stretched.row>.column>*, .ui.stretched.grid>.column>*, .ui.stretched.grid>.row>.column>* {
+    border: none;
+}

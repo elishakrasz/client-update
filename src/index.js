@@ -4,6 +4,7 @@ import ReactDOM from "react-dom";
 
 import { client } from "./apollo";
 import { Routes } from "./routes";
+import './App.css'
 import 'semantic-ui-css/semantic.min.css'
 
 ReactDOM.render(
