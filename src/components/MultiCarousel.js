@@ -144,7 +144,7 @@ export default class MultiCarousel extends Component {
      {/* <Image floated="right" src={pashtun} wrapped ui={false} /> */}
    </Card>
           </div>
-          <div style={{ paddingRight: '4px', paddingLeft: '4px', backgroundImage: `url(${image4})`, backgroundRepeat: 'no-repeat', height:"350px", width:"600px"   }}>
+          <div style={{ paddingRight: '4px', paddingLeft: '4px', backgroundImage: `url(${image3})`, backgroundRepeat: '', height:"350px", width:"600px"   }}>
           
           <Card style={{ opacity: "",  width: '100%', paddingTop: '0em', height: '1px', marginTop: '0em'  }}>
     <Card.Content
