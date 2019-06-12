@@ -1,19 +1,28 @@
 import React, { Component } from 'react'
-import { Button, Checkbox, Form, Input, Radio, Select, TextArea } from 'semantic-ui-react'
-
-const options = [
-  { key: 'm', text: 'Male', value: 'male' },
-  { key: 'f', text: 'Female', value: 'female' },
-  { key: 'o', text: 'Other', value: 'other' },
-]
+import { Button, Checkbox, Dropdown, Form, Input, Radio, Select, TextArea } from 'semantic-ui-react'
+import { CountryDropdown, RegionDropdown, CountryRegionData } from 'react-country-region-selector';
+import Geosuggest from 'react-geosuggest';
 
 export class Connectitribe extends Component {
+    constructor (props) {
+        super(props);
+        this.state = { country: '', region: '' };
+      }
+     
+      selectCountry (val) {
+        this.setState({ country: val });
+      }
+     
+      selectRegion (val) {
+        this.setState({ region: val });
+      }
+
   state = {}
 
   handleChange = (e, { value }) => this.setState({ value })
 
   render() {
-    const { value } = this.state
+    const { country } = this.state;
     return (
       <Form>
         <Form.Group widths='equal'>
@@ -22,6 +31,27 @@ export class Connectitribe extends Component {
           {/* <Form.Field control={Select} label='Gender' options={options} placeholder='Gender' /> */}
         </Form.Group>
         <Form.Group>
+        {/* <CountryDropdown
+            style={{
+                height: '3em'
+            }}
+            defaultOptionLabel="Israel"
+            value={country}
+            onChange={(val) => this.selectCountry(val)} /> */}
+            {/* <Dropdown 
+                placeholder='Select Country'
+                search
+                selection
+                options={country}
+                onChange={(val) => this.selectCountry(val)}
+            /> */}
+             
+            {/* <Geosuggest 
+                placeholder='Dallas'
+                onSuggestSelect={this.onSuggestSelect}
+
+                location='google.maps.LatLng(53.558572, 9.9278215)'
+                /> */}
             <Form.Field control={Input} label='Location' placeholder='Location' />
         </Form.Group>
         {/* <Form.Group inline>
