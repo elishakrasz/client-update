@@ -1,7 +1,7 @@
 import { GoogleComponent } from 'react-google-location' 
 import React, { Component } from 'react';
 
-const API_KEY = ''  // how to get key - step are below
+const API_KEY = 'AIzaSyDeaxKpb9PETReEY1CfNP-d-sNwJRowh6o'  // how to get key - step are below
 
 class Topic extends Component {
   constructor(props) {

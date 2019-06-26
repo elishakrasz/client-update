@@ -8,6 +8,7 @@ import SignUpValidation from '../components/signup/SignUpValidation';
 import LoginValidation from '../components/login/LoginValidation';
 import LayoutTest from '../components/LayoutTest';
 import StateMap from '../components/StateMap';
+import TheValley from '../components/maps/TheValley';
 
 export const Routes = () => (
     <BrowserRouter>
@@ -18,6 +19,7 @@ export const Routes = () => (
         <Route exact={true} path="/signup" component={SignUpValidation} />
         <Route exact={true} path="/await-confirmation" component={AwaitConfirmation} />
         <Route exact={true} path="/state" component={StateMap} />
+        <Route exact={true} path="/valley" component={TheValley} />
       </Switch>
     </BrowserRouter>
   );

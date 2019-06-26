@@ -14,10 +14,11 @@ import {
     Tab
   } from "semantic-ui-react";
 const pashtun = "../../Pashtun/testpash.jpg"
+
 export const panes = [
     { menuItem: 'Mapping', render: () => <Tab.Pane border="none" attached={true}><Grid>
         <Grid.Row textAlign="left">
-          <Grid.Column width={6}>
+          <Grid.Column width={6} style={{ marginRight: '70px' }}>
           <Icon size="large" color='blue' name='map outline' />
             <Header
               style={{
@@ -28,7 +29,7 @@ export const panes = [
              
             }}>iTribe is creating a comprehensive database from across the globe of the multitudes of people who have had or are just discovering their desire to somehow join the phenomenon of Israel.</span>
           </Grid.Column>
-          <Grid.Column width={6}>
+          <Grid.Column width={6} style={{ marginRight: '70px' }}>
           <Icon size="large" color='blue' name='map outline' style={{
                 paddingBottom: 'none'
               }} />
@@ -43,7 +44,7 @@ export const panes = [
           </Grid.Column>
         </Grid.Row>
         <Grid.Row textAlign="left">
-          <Grid.Column width={6}>
+          <Grid.Column width={6} style={{ marginRight: '70px' }}>
           <Icon size="large" color='blue' name='map outline' />
             <Header
               style={{
@@ -54,7 +55,7 @@ export const panes = [
             //  fontSize: '1.2em'
             }}>iTribe is creating a comprehensive database from across the globe of the multitudes of people who have had or are just discovering their desire to somehow join the phenomenon of Israel.</span>
           </Grid.Column>
-          <Grid.Column width={6}>
+          <Grid.Column width={6} style={{ marginRight: '70px' }}>
           <Icon color='blue' size="large" name='map outline' />
             <Header
               style={{
@@ -67,10 +68,10 @@ export const panes = [
           </Grid.Column>
         </Grid.Row>
       </Grid></Tab.Pane> },
-    { menuItem: 'Education', render: () => <Tab.Pane attached={false}>
+    { menuItem: 'Education', render: () => <Tab.Pane border="none" attached={false}>
         <Grid>
         <Grid.Row textAlign="left">
-          <Grid.Column width={6}>
+          <Grid.Column width={6} style={{ marginRight: '70px' }}>
           <Icon size="large" color='purple' name='shirtsinbulk' />
             <Header
               style={{
@@ -81,7 +82,7 @@ export const panes = [
              
             }}>Build an online curriculum to reconnect the historic familial relationship between recognized Israelites/Jews & historic Israelites.</span>
           </Grid.Column>
-          <Grid.Column width={6}>
+          <Grid.Column width={6} style={{ marginRight: '70px' }}>
           <Icon size="large" color='purple' name='sticker mule' style={{
                 paddingBottom: 'none'
               }} />
@@ -96,7 +97,7 @@ export const panes = [
           </Grid.Column>
         </Grid.Row>
         <Grid.Row textAlign="left">
-          <Grid.Column width={6}>
+          <Grid.Column width={6} style={{ marginRight: '70px' }}>
           <Icon size="large" color='purple' name='announcement' />
             <Header
               style={{
@@ -114,7 +115,7 @@ export const panes = [
     { menuItem: 'Social Policy', render: () => <Tab.Pane attached={false}>
     <Grid>
     <Grid.Row textAlign="left">
-      <Grid.Column width={6}>
+      <Grid.Column width={6} style={{ marginRight: '70px' }}>
       <Icon size="large" color='red' name='shirtsinbulk' />
         <Header
           style={{

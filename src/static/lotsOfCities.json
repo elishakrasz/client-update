@@ -1,0 +1,4709 @@
+[
+    {
+        "name": "Lebowakgomo",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": "33308",
+        "coordinates": [
+            57.2379,
+            25.0436
+        ]
+    },
+    {
+        "name": "Potchefstroom",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 123669,
+        "coordinates": [
+            57.3708,
+            25.0324
+        ]
+    },
+    {
+        "name": "Graaff Reinet",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 62896,
+        "coordinates": [
+            56.6527,
+            23.7128
+        ]
+    },
+    {
+        "name": "Rustenburg",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 165976,
+        "coordinates": [
+            56.6775,
+            22.0165
+        ]
+    },
+    {
+        "name": "Brandfort",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 12091,
+        "coordinates": [
+            56.4185,
+            21.8541
+        ]
+    },
+    {
+        "name": "Vryheid",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 150012,
+        "coordinates": [
+            56.6666,
+            22.4935
+        ]
+    },
+    {
+        "name": "Vereeniging",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 1074000,
+        "coordinates": [
+            56.9676,
+            23.1555
+        ]
+    },
+    {
+        "name": "Brits",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 122497,
+        "coordinates": [
+            56.4798,
+            23.3902
+        ]
+    },
+    {
+        "name": "Bethlehem",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 83654,
+        "coordinates": [
+            56.6237,
+            23.2751
+        ]
+    },
+    {
+        "name": "Ubomba",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 564,
+        "coordinates": [
+            56.5,
+            27.3166
+        ]
+    },
+    {
+        "name": "Polokwane",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 220045,
+        "coordinates": [
+            56.1327,
+            27.0068
+        ]
+    },
+    {
+        "name": "Springbok",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 10438,
+        "coordinates": [
+            56.6899,
+            23.7761
+        ]
+    },
+    {
+        "name": "Thohoyandou",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 269707,
+        "coordinates": [
+            32.8925,
+            13.18
+        ]
+    },
+    {
+        "name": "Pietermaritzburg",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 750845,
+        "coordinates": [
+            32.5319,
+            13.0175
+        ]
+    },
+    {
+        "name": "Poffader",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 4220,
+        "coordinates": [
+            32.9344,
+            12.0791
+        ]
+    },
+    {
+        "name": "Carnarvon",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 5785,
+        "coordinates": [
+            32.6604,
+            14.26
+        ]
+    },
+    {
+        "name": "Kroonstad",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 103992,
+        "coordinates": [
+            30.6704,
+            18.2666
+        ]
+    },
+    {
+        "name": "Alexander Bay",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 1500,
+        "coordinates": [
+            30.1333,
+            9.5
+        ]
+    },
+    {
+        "name": "Bloemhof",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 17122,
+        "coordinates": [
+            30.1679,
+            10.4567
+        ]
+    },
+    {
+        "name": "Hermanus",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 25153,
+        "coordinates": [
+            31.8804,
+            10.97
+        ]
+    },
+    {
+        "name": "Bethal",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 101919,
+        "coordinates": [
+            27.517,
+            15.0333
+        ]
+    },
+    {
+        "name": "Upington",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 71373,
+        "coordinates": [
+            27.0333,
+            14.4333
+        ]
+    },
+    {
+        "name": "Tzaneen",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 67245,
+        "coordinates": [
+            27.5333,
+            14.2834
+        ]
+    },
+    {
+        "name": "Vanhynsdorp",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 3331,
+        "coordinates": [
+            27.4471,
+            13.0517
+        ]
+    },
+    {
+        "name": "Kimberley",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 165264,
+        "coordinates": [
+            28.5504,
+            17.5834
+        ]
+    },
+    {
+        "name": "Durban",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 2729000,
+        "coordinates": [
+            29.1167,
+            15.9333
+        ]
+    },
+    {
+        "name": "Klerksdorp",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 178921,
+        "coordinates": [
+            32.7604,
+            12.72
+        ]
+    },
+    {
+        "name": "Welkom",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 431944,
+        "coordinates": [
+            29.108,
+            21.2869
+        ]
+    },
+    {
+        "name": "De Aar",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 32318,
+        "coordinates": [
+            30.257,
+            19.2
+        ]
+    },
+    {
+        "name": "Prieska",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 11236,
+        "coordinates": [
+            29.2337,
+            19.2166
+        ]
+    },
+    {
+        "name": "Saldanha",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 68284,
+        "coordinates": [
+            30.77,
+            20.22
+        ]
+    },
+    {
+        "name": "Middelburg",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 18164,
+        "coordinates": [
+            32.7648,
+            22.6391
+        ]
+    },
+    {
+        "name": "Port St. Johns",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 5939,
+        "coordinates": [
+            29.7504,
+            24.5166
+        ]
+    },
+    {
+        "name": "Volksrust",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 43378,
+        "coordinates": [
+            31.4337,
+            12.9833
+        ]
+    },
+    {
+        "name": "Ulundi",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 20753,
+        "coordinates": [
+            32.1704,
+            13.02
+        ]
+    },
+    {
+        "name": "Beaufort West",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 44737,
+        "coordinates": [
+            32.08,
+            23.96
+        ]
+    },
+    {
+        "name": "Komatipoort",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 20508,
+        "coordinates": [
+            32.8281,
+            21.8622
+        ]
+    },
+    {
+        "name": "Nelspruit",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 50 ,
+        "coordinates": [
+            24.3704,
+            14.4708
+        ]
+    },
+    {
+        "name": "Standerton",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 74021,
+        "coordinates": [
+            32.7604,
+            21.62
+        ]
+    },
+    {
+        "name": "Johannesburg",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 3435000,
+        "coordinates": [
+            24.9647,
+            10.1728
+        ]
+    },
+    {
+        "name": "Kuruman",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 10006,
+        "coordinates": [
+            26.3666,
+            15.8
+        ]
+    },
+    {
+        "name": "Paarl",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 187865,
+        "coordinates": [
+            25.9044,
+            13.8972
+        ]
+    },
+    {
+        "name": "Worcester",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 127597,
+        "coordinates": [
+            32.5005,
+            20.83
+        ]
+    },
+    {
+        "name": "Colesberg",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 12423,
+        "coordinates": [
+            31.21,
+            16.59
+        ]
+    },
+    {
+        "name": "Umtata",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 137772,
+        "coordinates": [
+            31.7704,
+            13.99
+        ]
+    },
+    {
+        "name": "Aliwal North",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 44436,
+        "coordinates": [
+            26.5903,
+            12.7751
+        ]
+    },
+    {
+        "name": "Middelburg",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 154706,
+        "coordinates": [
+            24.2,
+            23.29
+        ]
+    },
+    {
+        "name": "Springs",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 236083,
+        "coordinates": [
+            24.1667,
+            23.2696
+        ]
+    },
+    {
+        "name": "Benoni",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 2986000,
+        "coordinates": [
+            31.6606,
+            20.0155
+        ]
+    },
+    {
+        "name": "Port Shepstone",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 52793,
+        "coordinates": [
+            32.1167,
+            20.0667
+        ]
+    },
+    {
+        "name": "Oudtshoorn",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 76708,
+        "coordinates": [
+            32.38,
+            15.1
+        ]
+    },
+    {
+        "name": "Port Elizabeth",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 1021000,
+        "coordinates": [
+            -33.97,
+            25.6
+        ]
+    },
+    {
+        "name": "Port Alfred",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 17959,
+        "coordinates": [
+            -33.5995,
+            26.88
+        ]
+    },
+    {
+        "name": "East London",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 338627,
+        "coordinates": [
+            -32.97,
+            27.87
+        ]
+    },
+    {
+        "name": "Mossel Bay",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 16743,
+        "coordinates": [
+            -34.17,
+            22.13
+        ]
+    },
+    {
+        "name": "Vryburg",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 49588,
+        "coordinates": [
+            -26.96,
+            24.73
+        ]
+    },
+    {
+        "name": "Uitenhage",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 228912,
+        "coordinates": [
+            -33.7596,
+            25.39
+        ]
+    },
+    {
+        "name": "Bhisho",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 160997,
+        "coordinates": [
+            -32.87,
+            27.39
+        ]
+    },
+    {
+        "name": "Knysna",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 63106,
+        "coordinates": [
+            -34.0329,
+            23.0333
+        ]
+    },
+    {
+        "name": "Queenstown",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 105309,
+        "coordinates": [
+            -31.8996,
+            26.88
+        ]
+    },
+    {
+        "name": "Cradock",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 32898,
+        "coordinates": [
+            -32.1995,
+            25.61
+        ]
+    },
+    {
+        "name": "Bredasdorp",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 14936,
+        "coordinates": [
+            -34.5295,
+            20.03
+        ]
+    },
+    {
+        "name": "Swellendam",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 13674,
+        "coordinates": [
+            -34.0196,
+            20.43
+        ]
+    },
+    {
+        "name": "Ladysmith",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 47375,
+        "coordinates": [
+            -28.5495,
+            29.78
+        ]
+    },
+    {
+        "name": "George",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 174582,
+        "coordinates": [
+            -33.95,
+            22.45
+        ]
+    },
+    {
+        "name": "Grahamstown",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 91548,
+        "coordinates": [
+            -33.2996,
+            26.52
+        ]
+    },
+    {
+        "name": "Mmabatho",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 104428,
+        "coordinates": [
+            -25.83,
+            25.61
+        ]
+    },
+    {
+        "name": "Mahikeng",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 50 ,
+        "coordinates": [
+            -25.8652,
+            25.6442
+        ]
+    },
+    {
+        "name": "Musina",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 20191,
+        "coordinates": [
+            -22.34,
+            30.03
+        ]
+    },
+    {
+        "name": "Pretoria",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 1338000,
+        "coordinates": [
+            -25.7069,
+            28.2294
+        ]
+    },
+    {
+        "name": "Bloemfontein",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 463064,
+        "coordinates": [
+            -29.12,
+            26.2299
+        ]
+    },
+    {
+        "name": "Cape Town",
+        "country": "South Africa","color":"#9B56BB"
+        ,"population": 3215000,
+        "coordinates": [
+            -33.92,
+            18.435
+        ]
+    },
+    {
+        "name": "Zambezi",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 7074,
+        "coordinates": [
+            -13.54,
+            23.1099
+        ]
+    },
+    {
+        "name": "Solwezi",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 65000,
+        "coordinates": [
+            -12.1796,
+            26.4
+        ]
+    },
+    {
+        "name": "Lusaka",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 1328000,
+        "coordinates": [
+            -15.4166,
+            28.2833
+        ]
+    },
+    {
+        "name": "Kaoma",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 14212,
+        "coordinates": [
+            -14.7796,
+            24.8
+        ]
+    },
+    {
+        "name": "Chipata",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 85963,
+        "coordinates": [
+            -13.6296,
+            32.64
+        ]
+    },
+    {
+        "name": "Senanga",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 10005,
+        "coordinates": [
+            -16.1196,
+            23.27
+        ]
+    },
+    {
+        "name": "Sesheke",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 20149,
+        "coordinates": [
+            -17.4695,
+            24.3
+        ]
+    },
+    {
+        "name": "Chililabombwe",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 82068,
+        "coordinates": [
+            -12.3696,
+            27.82
+        ]
+    },
+    {
+        "name": "Chingola",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 182015,
+        "coordinates": [
+            -12.5396,
+            27.85
+        ]
+    },
+    {
+        "name": "Kasempa",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 5622,
+        "coordinates": [
+            -13.4596,
+            25.82
+        ]
+    },
+    {
+        "name": "Kitwe",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 404901,
+        "coordinates": [
+            -12.81,
+            28.22
+        ]
+    },
+    {
+        "name": "Mufulira",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 153624,
+        "coordinates": [
+            -12.55,
+            28.26
+        ]
+    },
+    {
+        "name": "Nchelenge",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 23693,
+        "coordinates": [
+            -9.3496,
+            28.73
+        ]
+    },
+    {
+        "name": "Mazabuka",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 64006,
+        "coordinates": [
+            -15.86,
+            27.76
+        ]
+    },
+    {
+        "name": "Lukulu",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 3349,
+        "coordinates": [
+            -14.3896,
+            23.24
+        ]
+    },
+    {
+        "name": "Kafue",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 47554,
+        "coordinates": [
+            -15.78,
+            28.18
+        ]
+    },
+    {
+        "name": "Lundazi",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 11635,
+        "coordinates": [
+            -12.2895,
+            33.17
+        ]
+    },
+    {
+        "name": "Mansa",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 42277,
+        "coordinates": [
+            -11.2,
+            28.89
+        ]
+    },
+    {
+        "name": "Mwinilunga",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 13798,
+        "coordinates": [
+            -11.7396,
+            24.44
+        ]
+    },
+    {
+        "name": "Mumbwa",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 19086,
+        "coordinates": [
+            -14.9796,
+            27.07
+        ]
+    },
+    {
+        "name": "Kalabo",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 7731,
+        "coordinates": [
+            -14.9896,
+            22.68
+        ]
+    },
+    {
+        "name": "Nyimba",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 1336,
+        "coordinates": [
+            -14.5495,
+            30.81
+        ]
+    },
+    {
+        "name": "Kapiri Mposhi",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 37942,
+        "coordinates": [
+            -13.9696,
+            28.66
+        ]
+    },
+    {
+        "name": "Kabwe",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 188979,
+        "coordinates": [
+            -14.44,
+            28.45
+        ]
+    },
+    {
+        "name": "Ndola",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 396339,
+        "coordinates": [
+            -12.9999,
+            28.65
+        ]
+    },
+    {
+        "name": "Kasama",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 200000,
+        "coordinates": [
+            -10.1996,
+            31.1799
+        ]
+    },
+    {
+        "name": "Mbala",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 20570,
+        "coordinates": [
+            -8.84,
+            31.37
+        ]
+    },
+    {
+        "name": "Kawambwa",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 20589,
+        "coordinates": [
+            -9.7795,
+            29.08
+        ]
+    },
+    {
+        "name": "Luanshya",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 151993,
+        "coordinates": [
+            -13.1333,
+            28.4
+        ]
+    },
+    {
+        "name": "Mongu",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 52534,
+        "coordinates": [
+            -15.2796,
+            23.12
+        ]
+    },
+    {
+        "name": "Mpika",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 28445,
+        "coordinates": [
+            -11.83,
+            31.46
+        ]
+    },
+    {
+        "name": "Chinsali",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 14015,
+        "coordinates": [
+            -10.5496,
+            32.06
+        ]
+    },
+    {
+        "name": "Livingstone",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 165480,
+        "coordinates": [
+            -17.86,
+            25.86
+        ]
+    },
+    {
+        "name": "Choma",
+        "country": "Zambia","color":"#A3EDF6"
+        ,"population": 46746,
+        "coordinates": [
+            -16.8095,
+            26.97
+        ]
+    },
+    {
+        "name": "Plumtree",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 2148,
+        "coordinates": [
+            -20.4795,
+            27.82
+        ]
+    },
+    {
+        "name": "Kariba",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 25531,
+        "coordinates": [
+            -16.5296,
+            28.8
+        ]
+    },
+    {
+        "name": "Hwange",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 33989,
+        "coordinates": [
+            -18.37,
+            26.5
+        ]
+    },
+    {
+        "name": "Chiredzi",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 28205,
+        "coordinates": [
+            -21.0496,
+            31.66
+        ]
+    },
+    {
+        "name": "Mazowe",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 9966,
+        "coordinates": [
+            -17.5196,
+            30.97
+        ]
+    },
+    {
+        "name": "Zvishavane",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 35896,
+        "coordinates": [
+            -20.3296,
+            30.05
+        ]
+    },
+    {
+        "name": "Shamva",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 10317,
+        "coordinates": [
+            -17.3196,
+            31.57
+        ]
+    },
+    {
+        "name": "Harare",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 1572000,
+        "coordinates": [
+            -17.8178,
+            31.0447
+        ]
+    },
+    {
+        "name": "Kwekwe",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 99149,
+        "coordinates": [
+            -18.9296,
+            29.8
+        ]
+    },
+    {
+        "name": "Kadoma",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 79174,
+        "coordinates": [
+            -18.33,
+            29.9099
+        ]
+    },
+    {
+        "name": "Beitbridge",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 26459,
+        "coordinates": [
+            -22.2096,
+            29.99
+        ]
+    },
+    {
+        "name": "Karoi",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 25030,
+        "coordinates": [
+            -16.8196,
+            29.68
+        ]
+    },
+    {
+        "name": "Victoria Falls",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 35761,
+        "coordinates": [
+            -17.9296,
+            25.84
+        ]
+    },
+    {
+        "name": "Chitungwiza",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 340360,
+        "coordinates": [
+            -18,
+            31.1
+        ]
+    },
+    {
+        "name": "Bindura",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 50 ,
+        "coordinates": [
+            -17.3019,
+            31.3306
+        ]
+    },
+    {
+        "name": "Lupane",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 50 ,
+        "coordinates": [
+            -18.9315,
+            27.807
+        ]
+    },
+    {
+        "name": "Marondera",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 50 ,
+        "coordinates": [
+            -18.1853,
+            31.5519
+        ]
+    },
+    {
+        "name": "Masvingo",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 76311,
+        "coordinates": [
+            -20.0596,
+            30.82
+        ]
+    },
+    {
+        "name": "Mutare",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 249365,
+        "coordinates": [
+            -18.97,
+            32.65
+        ]
+    },
+    {
+        "name": "Bulawayo",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 699385,
+        "coordinates": [
+            -20.17,
+            28.58
+        ]
+    },
+    {
+        "name": "Chinhoyi",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 61739,
+        "coordinates": [
+            -17.3596,
+            30.18
+        ]
+    },
+    {
+        "name": "Gwanda",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 14450,
+        "coordinates": [
+            -20.9396,
+            29.01
+        ]
+    },
+    {
+        "name": "Gweru",
+        "country": "Zimbabwe","color":"#FF5500"
+        ,"population": 183358,
+        "coordinates": [
+            -19.45,
+            29.82
+        ]
+    },
+    {
+        "name": "Maqat",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 14082,
+        "coordinates": [
+            47.6482,
+            53.3265
+        ]
+    },
+    {
+        "name": "Zhangaozen",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 8895,
+        "coordinates": [
+            43.3004,
+            52.8
+        ]
+    },
+    {
+        "name": "Taraz",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 358153,
+        "coordinates": [
+            42.9,
+            71.365
+        ]
+    },
+    {
+        "name": "Oral",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 209788,
+        "coordinates": [
+            51.2711,
+            51.335
+        ]
+    },
+    {
+        "name": "Balqash",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 81364,
+        "coordinates": [
+            46.8532,
+            74.9502
+        ]
+    },
+    {
+        "name": "Zaysan",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 17600,
+        "coordinates": [
+            47.4752,
+            84.8598
+        ]
+    },
+    {
+        "name": "Oytal",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 22673,
+        "coordinates": [
+            42.9153,
+            73.2549
+        ]
+    },
+    {
+        "name": "Zholymbet",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 6876,
+        "coordinates": [
+            51.7502,
+            71.7099
+        ]
+    },
+    {
+        "name": "Serebryansk",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 701,
+        "coordinates": [
+            49.6999,
+            83.4249
+        ]
+    },
+    {
+        "name": "Chapaev",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 6000,
+        "coordinates": [
+            50.1915,
+            51.1449
+        ]
+    },
+    {
+        "name": "Ridder",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 56756,
+        "coordinates": [
+            50.3554,
+            83.5149
+        ]
+    },
+    {
+        "name": "Zhaltyr",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 694,
+        "coordinates": [
+            51.6324,
+            69.8328
+        ]
+    },
+    {
+        "name": "Atbasar",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 35819,
+        "coordinates": [
+            51.8219,
+            68.3477
+        ]
+    },
+    {
+        "name": "Aqsay",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 34799,
+        "coordinates": [
+            51.1714,
+            53.0349
+        ]
+    },
+    {
+        "name": "Shemonaikha",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 27176,
+        "coordinates": [
+            50.6316,
+            81.905
+        ]
+    },
+    {
+        "name": "Atasu",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 19616,
+        "coordinates": [
+            48.6903,
+            71.6499
+        ]
+    },
+    {
+        "name": "Rudny",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 124000,
+        "coordinates": [
+            52.9527,
+            63.13
+        ]
+    },
+    {
+        "name": "Makhambet",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 8905,
+        "coordinates": [
+            47.6714,
+            51.5798
+        ]
+    },
+    {
+        "name": "Fort Shevchenko",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 5213,
+        "coordinates": [
+            44.5171,
+            50.2666
+        ]
+    },
+    {
+        "name": "Qusmuryn",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 8049,
+        "coordinates": [
+            52.458,
+            64.6
+        ]
+    },
+    {
+        "name": "Oktyabrsk",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 28196,
+        "coordinates": [
+            49.4731,
+            57.4449
+        ]
+    },
+    {
+        "name": "Khromtau",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 23715,
+        "coordinates": [
+            50.2699,
+            58.45
+        ]
+    },
+    {
+        "name": "Algha",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 28267,
+        "coordinates": [
+            49.9032,
+            57.335
+        ]
+    },
+    {
+        "name": "Embi",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 18760,
+        "coordinates": [
+            48.8268,
+            58.1442
+        ]
+    },
+    {
+        "name": "Ushtobe",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 20492,
+        "coordinates": [
+            45.2653,
+            77.97
+        ]
+    },
+    {
+        "name": "Burylbaytal",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 100,
+        "coordinates": [
+            44.9387,
+            74.0303
+        ]
+    },
+    {
+        "name": "Zhanibek",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 8212,
+        "coordinates": [
+            49.4276,
+            46.8772
+        ]
+    },
+    {
+        "name": "Esil",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 13504,
+        "coordinates": [
+            51.957,
+            66.3775
+        ]
+    },
+    {
+        "name": "Derzhavinsk",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 15848,
+        "coordinates": [
+            51.1021,
+            66.3075
+        ]
+    },
+    {
+        "name": "Saryshaghan",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 4365,
+        "coordinates": [
+            46.1195,
+            73.6191
+        ]
+    },
+    {
+        "name": "Turgay",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 5277,
+        "coordinates": [
+            49.626,
+            63.499
+        ]
+    },
+    {
+        "name": "Sarqan",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 76919,
+        "coordinates": [
+            45.4203,
+            79.9149
+        ]
+    },
+    {
+        "name": "Arqalyq",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 55521,
+        "coordinates": [
+            50.2418,
+            66.8976
+        ]
+    },
+    {
+        "name": "Shalqar",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 27256,
+        "coordinates": [
+            47.8363,
+            59.6141
+        ]
+    },
+    {
+        "name": "Shieli",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 29832,
+        "coordinates": [
+            44.167,
+            66.75
+        ]
+    },
+    {
+        "name": "Bayghanin",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 7657,
+        "coordinates": [
+            48.6917,
+            55.874
+        ]
+    },
+    {
+        "name": "Zhezqazghan",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 104357,
+        "coordinates": [
+            47.78,
+            67.77
+        ]
+    },
+    {
+        "name": "Mangyshlak",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 147443,
+        "coordinates": [
+            43.6905,
+            51.1417
+        ]
+    },
+    {
+        "name": "Zhosaly",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 20065,
+        "coordinates": [
+            45.4877,
+            64.078
+        ]
+    },
+    {
+        "name": "Beyneu",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 32452,
+        "coordinates": [
+            45.1834,
+            55.1
+        ]
+    },
+    {
+        "name": "Qazaly",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 6582,
+        "coordinates": [
+            45.7628,
+            62.1075
+        ]
+    },
+    {
+        "name": "Aral",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 33017,
+        "coordinates": [
+            46.8,
+            61.6666
+        ]
+    },
+    {
+        "name": "Ayakoz",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 45861,
+        "coordinates": [
+            47.9647,
+            80.4297
+        ]
+    },
+    {
+        "name": "Urzhar",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 14826,
+        "coordinates": [
+            47.1002,
+            81.6048
+        ]
+    },
+    {
+        "name": "Qapshaghay",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 42167,
+        "coordinates": [
+            43.8844,
+            77.0687
+        ]
+    },
+    {
+        "name": "Esik",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 35319,
+        "coordinates": [
+            43.3691,
+            77.4438
+        ]
+    },
+    {
+        "name": "Qaratau",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 37881,
+        "coordinates": [
+            43.1854,
+            70.46
+        ]
+    },
+    {
+        "name": "Sharbaqty",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 107,
+        "coordinates": [
+            52.4999,
+            78.1499
+        ]
+    },
+    {
+        "name": "Oostanay",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 236901,
+        "coordinates": [
+            53.2209,
+            63.6283
+        ]
+    },
+    {
+        "name": "Kachiry",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 8931,
+        "coordinates": [
+            53.0804,
+            76.09
+        ]
+    },
+    {
+        "name": "Kishkenekol",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 6779,
+        "coordinates": [
+            53.6368,
+            72.3414
+        ]
+    },
+    {
+        "name": "Bulaevo",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 9886,
+        "coordinates": [
+            54.9053,
+            70.44
+        ]
+    },
+    {
+        "name": "Shonzhy",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 3902,
+        "coordinates": [
+            43.5421,
+            79.4703
+        ]
+    },
+    {
+        "name": "Qyzylorda",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 300000,
+        "coordinates": [
+            44.8,
+            65.465
+        ]
+    },
+    {
+        "name": "Qaraghandy",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 451800,
+        "coordinates": [
+            49.885,
+            73.115
+        ]
+    },
+    {
+        "name": "Ertis",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 9216,
+        "coordinates": [
+            53.3453,
+            75.4499
+        ]
+    },
+    {
+        "name": "Tayynsha",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 13148,
+        "coordinates": [
+            53.8481,
+            69.7638
+        ]
+    },
+    {
+        "name": "Qulan",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 13128,
+        "coordinates": [
+            42.9204,
+            72.705
+        ]
+    },
+    {
+        "name": "Shu",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 42439,
+        "coordinates": [
+            43.5953,
+            73.7448
+        ]
+    },
+    {
+        "name": "Kentau",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 57408,
+        "coordinates": [
+            43.5165,
+            68.5199
+        ]
+    },
+    {
+        "name": "Oskemen",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 319067,
+        "coordinates": [
+            49.99,
+            82.6149
+        ]
+    },
+    {
+        "name": "Aqtau",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 4479,
+        "coordinates": [
+            43.6232,
+            51.2365
+        ]
+    },
+    {
+        "name": "Taldyqorghan",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 88380,
+        "coordinates": [
+            45,
+            78.4
+        ]
+    },
+    {
+        "name": "Astana",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 345604,
+        "coordinates": [
+            51.1811,
+            71.4278
+        ]
+    },
+    {
+        "name": "Aqtobe",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 262457,
+        "coordinates": [
+            50.28,
+            57.17
+        ]
+    },
+    {
+        "name": "Kokshetau",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 128873,
+        "coordinates": [
+            53.3,
+            69.42
+        ]
+    },
+    {
+        "name": "Petropavlovsk",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 228238,
+        "coordinates": [
+            54.88,
+            69.22
+        ]
+    },
+    {
+        "name": "Pavlodar",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 329002,
+        "coordinates": [
+            52.3,
+            76.95
+        ]
+    },
+    {
+        "name": "Otar",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 11238,
+        "coordinates": [
+            43.5346,
+            75.2139
+        ]
+    },
+    {
+        "name": "Almaty",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 1209000,
+        "coordinates": [
+            43.325,
+            76.915
+        ]
+    },
+    {
+        "name": "Bestobe",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 7189,
+        "coordinates": [
+            52.4997,
+            73.0997
+        ]
+    },
+    {
+        "name": "Arys",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 42648,
+        "coordinates": [
+            42.4369,
+            68.8048
+        ]
+    },
+    {
+        "name": "Lenger",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 23058,
+        "coordinates": [
+            42.1899,
+            69.8799
+        ]
+    },
+    {
+        "name": "Aqsu",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 8543,
+        "coordinates": [
+            52.4502,
+            71.9597
+        ]
+    },
+    {
+        "name": "Temirtau",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 170600,
+        "coordinates": [
+            50.065,
+            72.965
+        ]
+    },
+    {
+        "name": "Makinsk",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 23020,
+        "coordinates": [
+            52.6404,
+            70.41
+        ]
+    },
+    {
+        "name": "Osakarovka",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 7305,
+        "coordinates": [
+            50.5799,
+            72.5699
+        ]
+    },
+    {
+        "name": "Qarqaraly",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 8195,
+        "coordinates": [
+            49.4249,
+            75.4649
+        ]
+    },
+    {
+        "name": "Ekibastuz",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 127868,
+        "coordinates": [
+            51.73,
+            75.3199
+        ]
+    },
+    {
+        "name": "Zyryanovsk",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 49658,
+        "coordinates": [
+            49.7453,
+            84.2548
+        ]
+    },
+    {
+        "name": "Komsomolets",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 9838,
+        "coordinates": [
+            53.7506,
+            62.0502
+        ]
+    },
+    {
+        "name": "Baykonur",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 36175,
+        "coordinates": [
+            45.6914,
+            63.2413
+        ]
+    },
+    {
+        "name": "Erymentau",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 25141,
+        "coordinates": [
+            51.6303,
+            73.1049
+        ]
+    },
+    {
+        "name": "Qarazhal",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 22170,
+        "coordinates": [
+            48.0253,
+            70.7999
+        ]
+    },
+    {
+        "name": "Tobol",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 7155,
+        "coordinates": [
+            52.698,
+            62.5749
+        ]
+    },
+    {
+        "name": "Shar",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 9087,
+        "coordinates": [
+            49.6003,
+            81.0549
+        ]
+    },
+    {
+        "name": "Semey",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 311353,
+        "coordinates": [
+            50.435,
+            80.275
+        ]
+    },
+    {
+        "name": "Boralday",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 20996,
+        "coordinates": [
+            43.3341,
+            76.8288
+        ]
+    },
+    {
+        "name": "Zhetiqara",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 46740,
+        "coordinates": [
+            52.193,
+            61.2399
+        ]
+    },
+    {
+        "name": "Aqadyr",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 9710,
+        "coordinates": [
+            48.2749,
+            72.8599
+        ]
+    },
+    {
+        "name": "Zharkent",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 36496,
+        "coordinates": [
+            44.1616,
+            79.9801
+        ]
+    },
+    {
+        "name": "Qulsary",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 37103,
+        "coordinates": [
+            46.9833,
+            54.0165
+        ]
+    },
+    {
+        "name": "Balyqshy",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 31624,
+        "coordinates": [
+            47.0666,
+            51.8666
+        ]
+    },
+    {
+        "name": "Atyrau",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 182753,
+        "coordinates": [
+            47.1127,
+            51.92
+        ]
+    },
+    {
+        "name": "Shymkent",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 465392,
+        "coordinates": [
+            42.32,
+            69.595
+        ]
+    },
+    {
+        "name": "Turkistan",
+        "country": "Kazakhstan","color":"#00968B"
+        ,"population": 97360,
+        "coordinates": [
+            43.3016,
+            68.2549
+        ]
+    },
+    {
+        "name": "Xiangkhoang",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 5189,
+        "coordinates": [
+            19.3337,
+            103.3666
+        ]
+    },
+    {
+        "name": "Muang PhÃ´nsavan",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 50 ,
+        "coordinates": [
+            19.45,
+            103.2167
+        ]
+    },
+    {
+        "name": "Vientiane",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 754000,
+        "coordinates": [
+            17.9667,
+            102.6
+        ]
+    },
+    {
+        "name": "Ban Houayxay",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 6347,
+        "coordinates": [
+            20.2775,
+            100.4128
+        ]
+    },
+    {
+        "name": "Muang PhÃ´n-HÃ´ng",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 50 ,
+        "coordinates": [
+            18.4957,
+            102.4142
+        ]
+    },
+    {
+        "name": "Louang Namtha",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 3225,
+        "coordinates": [
+            20.95,
+            101.4167
+        ]
+    },
+    {
+        "name": "Phongsali",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 6000,
+        "coordinates": [
+            21.6833,
+            102.1
+        ]
+    },
+    {
+        "name": "Thakhek",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 76928,
+        "coordinates": [
+            17.4112,
+            104.8361
+        ]
+    },
+    {
+        "name": "Muang Pakxan",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 50 ,
+        "coordinates": [
+            18.3826,
+            103.6586
+        ]
+    },
+    {
+        "name": "Louangphrabang",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 107142,
+        "coordinates": [
+            19.8845,
+            102.1416
+        ]
+    },
+    {
+        "name": "Xaignabouri",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 16200,
+        "coordinates": [
+            19.2505,
+            101.7501
+        ]
+    },
+    {
+        "name": "Savannakhet",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 84898,
+        "coordinates": [
+            16.5376,
+            104.773
+        ]
+    },
+    {
+        "name": "Lamam",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 50 ,
+        "coordinates": [
+            15.4171,
+            106.6946
+        ]
+    },
+    {
+        "name": "Pakxe",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 102775,
+        "coordinates": [
+            15.1221,
+            105.8183
+        ]
+    },
+    {
+        "name": "Attapu",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 4297,
+        "coordinates": [
+            14.808,
+            106.839
+        ]
+    },
+    {
+        "name": "Xam Nua",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 38992,
+        "coordinates": [
+            20.4167,
+            104.0333
+        ]
+    },
+    {
+        "name": "Muang Xai",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 50 ,
+        "coordinates": [
+            20.6923,
+            101.9847
+        ]
+    },
+    {
+        "name": "Saravan",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 5521,
+        "coordinates": [
+            15.716,
+            106.427
+        ]
+    },
+    {
+        "name": "Champasak",
+        "country": "Laos","color":"#FFB38F"
+        ,"population": 12994,
+        "coordinates": [
+            14.8833,
+            105.8667
+        ]
+    },
+    {
+        "name": "Beirut",
+        "country": "Lebanon","color":"#C1CDD4"
+        ,"population": 1846000,
+        "coordinates": [
+            33.872,
+            35.5097
+        ]
+    },
+    {
+        "name": "ZahlÃ©",
+        "country": "Lebanon","color":"#C1CDD4"
+        ,"population": 78145,
+        "coordinates": [
+            33.8501,
+            35.9042
+        ]
+    },
+    {
+        "name": "Baalbek",
+        "country": "Lebanon","color":"#C1CDD4"
+        ,"population": 50 ,
+        "coordinates": [
+            34.0058,
+            36.2181
+        ]
+    },
+    {
+        "name": "B'abda",
+        "country": "Lebanon","color":"#C1CDD4"
+        ,"population": 9000,
+        "coordinates": [
+            33.8333,
+            35.5333
+        ]
+    },
+    {
+        "name": "Halba",
+        "country": "Lebanon","color":"#C1CDD4"
+        ,"population": 50 ,
+        "coordinates": [
+            34.5428,
+            36.0797
+        ]
+    },
+    {
+        "name": "Saida",
+        "country": "Lebanon","color":"#C1CDD4"
+        ,"population": 173894,
+        "coordinates": [
+            33.563,
+            35.3688
+        ]
+    },
+    {
+        "name": "Nabatiye et Tahta",
+        "country": "Lebanon","color":"#C1CDD4"
+        ,"population": 80000,
+        "coordinates": [
+            33.3833,
+            35.45
+        ]
+    },
+    {
+        "name": "Trablous",
+        "country": "Lebanon","color":"#C1CDD4"
+        ,"population": 530000,
+        "coordinates": [
+            34.42,
+            35.87
+        ]
+    },
+    {
+        "name": "Castries",
+        "country": "Saint Lucia","color":"#C1CDD4"
+        ,"population": 37963,
+        "coordinates": [
+            14.002,
+            -61
+        ]
+    },
+    {
+        "name": "Gamprin",
+        "country": "Liechtenstein","color":"#80746D"
+        ,"population": 50 ,
+        "coordinates": [
+            47.2197,
+            9.5113
+        ]
+    },
+    {
+        "name": "Triesenberg",
+        "country": "Liechtenstein","color":"#80746D"
+        ,"population": 50 ,
+        "coordinates": [
+            47.1182,
+            9.5444
+        ]
+    },
+    {
+        "name": "Schaan",
+        "country": "Liechtenstein","color":"#80746D"
+        ,"population": 50 ,
+        "coordinates": [
+            47.1661,
+            9.5096
+        ]
+    },
+    {
+        "name": "Ruggell",
+        "country": "Liechtenstein","color":"#80746D"
+        ,"population": 50 ,
+        "coordinates": [
+            47.2408,
+            9.5247
+        ]
+    },
+    {
+        "name": "Mauren",
+        "country": "Liechtenstein","color":"#80746D"
+        ,"population": 50 ,
+        "coordinates": [
+            47.2205,
+            9.5426
+        ]
+    },
+    {
+        "name": "Eschen",
+        "country": "Liechtenstein","color":"#80746D"
+        ,"population": 50 ,
+        "coordinates": [
+            47.2109,
+            9.5216
+        ]
+    },
+    {
+        "name": "Triesen",
+        "country": "Liechtenstein","color":"#80746D"
+        ,"population": 50 ,
+        "coordinates": [
+            47.1101,
+            9.524
+        ]
+    },
+    {
+        "name": "Balzers",
+        "country": "Liechtenstein","color":"#80746D"
+        ,"population": 50 ,
+        "coordinates": [
+            47.0667,
+            9.5025
+        ]
+    },
+    {
+        "name": "Vaduz",
+        "country": "Liechtenstein","color":"#80746D"
+        ,"population": 36281,
+        "coordinates": [
+            47.1337,
+            9.5167
+        ]
+    },
+    {
+        "name": "Planken",
+        "country": "Liechtenstein","color":"#80746D"
+        ,"population": 50 ,
+        "coordinates": [
+            47.1844,
+            9.5436
+        ]
+    },
+    {
+        "name": "Schellenberg",
+        "country": "Liechtenstein","color":"#80746D"
+        ,"population": 50 ,
+        "coordinates": [
+            47.2325,
+            9.5463
+        ]
+    },
+    {
+        "name": "Colombo",
+        "country": "Sri Lanka","color":"pink"
+        ,"population": 217000,
+        "coordinates": [
+            6.932,
+            79.8578
+        ]
+    },
+    {
+        "name": "Ratnapura",
+        "country": "Sri Lanka","color":"pink"
+        ,"population": 47832,
+        "coordinates": [
+            6.693,
+            80.386
+        ]
+    },
+    {
+        "name": "Matara",
+        "country": "Sri Lanka","color":"pink"
+        ,"population": 68244,
+        "coordinates": [
+            5.949,
+            80.5428
+        ]
+    },
+    {
+        "name": "Sri Jawewardenepura Kotte",
+        "country": "Sri Lanka","color":"pink"
+        ,"population": 115826,
+        "coordinates": [
+            6.9,
+            79.95
+        ]
+    },
+    {
+        "name": "Moratuwa",
+        "country": "Sri Lanka","color":"pink"
+        ,"population": 200000,
+        "coordinates": [
+            6.7804,
+            79.88
+        ]
+    },
+    {
+        "name": "Anuradhapura",
+        "country": "Sri Lanka","color":"pink"
+        ,"population": 118302,
+        "coordinates": [
+            8.35,
+            80.3833
+        ]
+    },
+    {
+        "name": "Galle",
+        "country": "Sri Lanka","color":"pink"
+        ,"population": 99478,
+        "coordinates": [
+            6.03,
+            80.24
+        ]
+    },
+    {
+        "name": "Puttalan",
+        "country": "Sri Lanka","color":"pink"
+        ,"population": 45661,
+        "coordinates": [
+            8.033,
+            79.826
+        ]
+    },
+    {
+        "name": "Kandy",
+        "country": "Sri Lanka","color":"pink"
+        ,"population": 111701,
+        "coordinates": [
+            7.28,
+            80.67
+        ]
+    },
+    {
+        "name": "Badulla",
+        "country": "Sri Lanka","color":"pink"
+        ,"population": 47587,
+        "coordinates": [
+            6.9837,
+            81.0499
+        ]
+    },
+    {
+        "name": "Trincomalee",
+        "country": "Sri Lanka","color":"pink"
+        ,"population": 108420,
+        "coordinates": [
+            8.569,
+            81.233
+        ]
+    },
+    {
+        "name": "Kilinochchi",
+        "country": "Sri Lanka","color":"pink"
+        ,"population": 103717,
+        "coordinates": [
+            9.4004,
+            80.3999
+        ]
+    },
+    {
+        "name": "Batticaloa",
+        "country": "Sri Lanka","color":"pink"
+        ,"population": 129222,
+        "coordinates": [
+            7.717,
+            81.7
+        ]
+    },
+    {
+        "name": "Jaffna",
+        "country": "Sri Lanka","color":"pink"
+        ,"population": 250000,
+        "coordinates": [
+            9.675,
+            80.005
+        ]
+    },
+    {
+        "name": "Bopolu",
+        "country": "Liberia","color":"orange"
+        ,"population": 50 ,
+        "coordinates": [
+            7.0667,
+            -10.4875
+        ]
+    },
+    {
+        "name": "Voinjama",
+        "country": "Liberia","color":"orange"
+        ,"population": 26594,
+        "coordinates": [
+            8.4167,
+            -9.75
+        ]
+    },
+    {
+        "name": "Robertsport",
+        "country": "Liberia","color":"orange"
+        ,"population": 11969,
+        "coordinates": [
+            6.7533,
+            -11.3686
+        ]
+    },
+    {
+        "name": "Buchanan",
+        "country": "Liberia","color":"orange"
+        ,"population": 48315,
+        "coordinates": [
+            5.9161,
+            -10.0525
+        ]
+    },
+    {
+        "name": "Monrovia",
+        "country": "Liberia","color":"orange"
+        ,"population": 1041000,
+        "coordinates": [
+            6.3106,
+            -10.8048
+        ]
+    },
+    {
+        "name": "Tubmanburg",
+        "country": "Liberia","color":"orange"
+        ,"population": 50 ,
+        "coordinates": [
+            6.8706,
+            -10.8211
+        ]
+    },
+    {
+        "name": "Buchanan",
+        "country": "Liberia","color":"orange"
+        ,"population": 50 ,
+        "coordinates": [
+            5.8811,
+            -10.0447
+        ]
+    },
+    {
+        "name": "Zwedru",
+        "country": "Liberia","color":"orange"
+        ,"population": 25678,
+        "coordinates": [
+            6.0704,
+            -8.13
+        ]
+    },
+    {
+        "name": "Barclayville",
+        "country": "Liberia","color":"orange"
+        ,"population": 2733,
+        "coordinates": [
+            4.8,
+            -8.1667
+        ]
+    },
+    {
+        "name": "Rivercess",
+        "country": "Liberia","color":"orange"
+        ,"population": 2578,
+        "coordinates": [
+            5.465,
+            -9.578
+        ]
+    },
+    {
+        "name": "Fish Town",
+        "country": "Liberia","color":"orange"
+        ,"population": 50 ,
+        "coordinates": [
+            5.1974,
+            -7.8758
+        ]
+    },
+    {
+        "name": "Gbarnga",
+        "country": "Liberia","color":"orange"
+        ,"population": 45835,
+        "coordinates": [
+            7.0104,
+            -9.49
+        ]
+    },
+    {
+        "name": "Kakata",
+        "country": "Liberia","color":"orange"
+        ,"population": 33945,
+        "coordinates": [
+            6.526,
+            -10.349
+        ]
+    },
+    {
+        "name": "Sanniquellie",
+        "country": "Liberia","color":"orange"
+        ,"population": 11415,
+        "coordinates": [
+            7.371,
+            -8.685
+        ]
+    },
+    {
+        "name": "Greenville",
+        "country": "Liberia","color":"orange"
+        ,"population": 10374,
+        "coordinates": [
+            5.0111,
+            -9.0388
+        ]
+    },
+    {
+        "name": "Bensonville",
+        "country": "Liberia","color":"orange"
+        ,"population": 4089,
+        "coordinates": [
+            6.4333,
+            -10.6
+        ]
+    },
+    {
+        "name": "Harper",
+        "country": "Liberia","color":"orange"
+        ,"population": 32661,
+        "coordinates": [
+            4.3754,
+            -7.717
+        ]
+    },
+    {
+        "name": "Maseru",
+        "country": "Lesotho","color":"#85C81A"
+        ,"population": 361324,
+        "coordinates": [
+            -29.3167,
+            27.4833
+        ]
+    },
+    {
+        "name": "Mokhotlong",
+        "country": "Lesotho","color":"#85C81A"
+        ,"population": 8809,
+        "coordinates": [
+            -29.291,
+            29.078
+        ]
+    },
+    {
+        "name": "Thaba-Tseka",
+        "country": "Lesotho","color":"#85C81A"
+        ,"population": 50 ,
+        "coordinates": [
+            -29.522,
+            28.6084
+        ]
+    },
+    {
+        "name": "Moyeni",
+        "country": "Lesotho","color":"#85C81A"
+        ,"population": 24130,
+        "coordinates": [
+            -30.411,
+            27.716
+        ]
+    },
+    {
+        "name": "Qachaâ€™s Nek",
+        "country": "Lesotho","color":"#85C81A"
+        ,"population": 50 ,
+        "coordinates": [
+            -30.1154,
+            28.6894
+        ]
+    },
+    {
+        "name": "Mafetang",
+        "country": "Lesotho","color":"#85C81A"
+        ,"population": 57059,
+        "coordinates": [
+            -29.8166,
+            27.25
+        ]
+    },
+    {
+        "name": "Hlotse",
+        "country": "Lesotho","color":"#85C81A"
+        ,"population": 47675,
+        "coordinates": [
+            -28.878,
+            28.056
+        ]
+    },
+    {
+        "name": "Teyateyaneng",
+        "country": "Lesotho","color":"#85C81A"
+        ,"population": 5115,
+        "coordinates": [
+            -29.153,
+            27.753
+        ]
+    },
+    {
+        "name": "Mohales Hoek",
+        "country": "Lesotho","color":"#85C81A"
+        ,"population": 24992,
+        "coordinates": [
+            -30.159,
+            27.48
+        ]
+    },
+    {
+        "name": "Butha-Buthe",
+        "country": "Lesotho","color":"#85C81A"
+        ,"population": 16330,
+        "coordinates": [
+            -28.75,
+            28.25
+        ]
+    },
+    {
+        "name": "KlaipÄ—da",
+        "country": "Lithuania","color":"red"
+        ,"population": 192307,
+        "coordinates": [
+            55.7204,
+            21.1199
+        ]
+    },
+    {
+        "name": "Palanga",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.9203,
+            21.071
+        ]
+    },
+    {
+        "name": "Nida",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.3086,
+            20.9965
+        ]
+    },
+    {
+        "name": "Kretinga",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.8888,
+            21.2445
+        ]
+    },
+    {
+        "name": "TauragÄ—",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.2522,
+            22.2897
+        ]
+    },
+    {
+        "name": "Å ilutÄ—",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.3453,
+            21.4733
+        ]
+    },
+    {
+        "name": "Rietavas",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.7271,
+            21.9234
+        ]
+    },
+    {
+        "name": "PlungÄ—",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.9077,
+            21.8456
+        ]
+    },
+    {
+        "name": "Å ilalÄ—",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.4898,
+            22.1869
+        ]
+    },
+    {
+        "name": "Visaginas",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.5968,
+            26.4398
+        ]
+    },
+    {
+        "name": "Zarasai",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.7322,
+            26.2512
+        ]
+    },
+    {
+        "name": "Ignalina",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.3406,
+            26.1605
+        ]
+    },
+    {
+        "name": "Utena",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.4976,
+            25.5992
+        ]
+    },
+    {
+        "name": "Å venÄionys",
+        "country": "Lithuania","color":"red"
+        ,"population": 50,
+        "coordinates": [
+            55.133,
+            26.1595
+        ]
+    },
+    {
+        "name": "RokiÅ¡kis",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.9587,
+            25.5947
+        ]
+    },
+    {
+        "name": "MolÄ—tai",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.2247,
+            25.4169
+        ]
+    },
+    {
+        "name": "Å alÄininkai",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            54.3086,
+            25.3868
+        ]
+    },
+    {
+        "name": "Vilnius",
+        "country": "Lithuania","color":"red"
+        ,"population": 542366,
+        "coordinates": [
+            54.6834,
+            25.3166
+        ]
+    },
+    {
+        "name": "KupiÅ¡kis",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.8401,
+            24.9803
+        ]
+    },
+    {
+        "name": "Trakai",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            54.6399,
+            24.936
+        ]
+    },
+    {
+        "name": "BirÅ¾ai",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            56.1986,
+            24.7521
+        ]
+    },
+    {
+        "name": "AnykÅ¡Äiai",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.5246,
+            25.1066
+        ]
+    },
+    {
+        "name": "TelÅ¡iai",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.9831,
+            22.2343
+        ]
+    },
+    {
+        "name": "KelmÄ—",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.6301,
+            22.9349
+        ]
+    },
+    {
+        "name": "MarijampolÄ—",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            54.5599,
+            23.3541
+        ]
+    },
+    {
+        "name": "Lazdijai",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            54.2333,
+            23.5147
+        ]
+    },
+    {
+        "name": "Å akiai",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            54.9534,
+            23.0478
+        ]
+    },
+    {
+        "name": "RadviliÅ¡kis",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.8111,
+            23.5411
+        ]
+    },
+    {
+        "name": "Å iauliai",
+        "country": "Lithuania","color":"red"
+        ,"population": 133528,
+        "coordinates": [
+            55.9386,
+            23.325
+        ]
+    },
+    {
+        "name": "BirÅ¡tonas",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            54.6048,
+            24.0311
+        ]
+    },
+    {
+        "name": "Druskininkai",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            54.0157,
+            23.987
+        ]
+    },
+    {
+        "name": "KÄ—dainiai",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.2878,
+            23.9727
+        ]
+    },
+    {
+        "name": "Alytus",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            54.3964,
+            24.0414
+        ]
+    },
+    {
+        "name": "Prienai",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            54.636,
+            23.9458
+        ]
+    },
+    {
+        "name": "ElektrÄ—nai",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            54.7863,
+            24.6626
+        ]
+    },
+    {
+        "name": "Kaunas",
+        "country": "Lithuania","color":"red"
+        ,"population": 374643,
+        "coordinates": [
+            54.9504,
+            23.88
+        ]
+    },
+    {
+        "name": "Jonava",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.0801,
+            24.2754
+        ]
+    },
+    {
+        "name": "KaiÅ¡iadorys",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            54.8653,
+            24.4682
+        ]
+    },
+    {
+        "name": "PaneveÅ¾ys",
+        "country": "Lithuania","color":"red"
+        ,"population": 127405,
+        "coordinates": [
+            55.74,
+            24.37
+        ]
+    },
+    {
+        "name": "JoniÅ¡kis",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            56.2394,
+            23.6154
+        ]
+    },
+    {
+        "name": "KazlÅ³ RÅ«da",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            54.7497,
+            23.495
+        ]
+    },
+    {
+        "name": "VilkaviÅ¡kis",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            54.648,
+            23.0305
+        ]
+    },
+    {
+        "name": "Pasvalys",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            56.0625,
+            24.3997
+        ]
+    },
+    {
+        "name": "Pakruojis",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.9789,
+            23.8551
+        ]
+    },
+    {
+        "name": "Raseiniai",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.3797,
+            23.1239
+        ]
+    },
+    {
+        "name": "PagÄ—giai",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.1379,
+            21.9138
+        ]
+    },
+    {
+        "name": "Jurbarkas",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.0756,
+            22.7642
+        ]
+    },
+    {
+        "name": "Kalvarija",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            54.4172,
+            23.2283
+        ]
+    },
+    {
+        "name": "Å irvintos",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.044,
+            24.9545
+        ]
+    },
+    {
+        "name": "Skuodas",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            56.2706,
+            21.5321
+        ]
+    },
+    {
+        "name": "MaÅ¾eikiai",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            56.3122,
+            22.3265
+        ]
+    },
+    {
+        "name": "AkmenÄ—",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            56.25,
+            22.75
+        ]
+    },
+    {
+        "name": "UkmergÄ—",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            55.2494,
+            24.7636
+        ]
+    },
+    {
+        "name": "VarÄ—na",
+        "country": "Lithuania","color":"red"
+        ,"population": 50 ,
+        "coordinates": [
+            54.2155,
+            24.5754
+        ]
+    },
+    {
+        "name": "Capellen",
+        "country": "Luxembourg","color":"yellow"
+        ,"population": 50 ,
+        "coordinates": [
+            49.645,
+            5.9908
+        ]
+    },
+    {
+        "name": "Esch-sur-Alzette",
+        "country": "Luxembourg","color":"yellow"
+        ,"population": 50 ,
+        "coordinates": [
+            49.4958,
+            5.9806
+        ]
+    },
+    {
+        "name": "Remich",
+        "country": "Luxembourg","color":"yellow"
+        ,"population": 50 ,
+        "coordinates": [
+            49.545,
+            6.3669
+        ]
+    },
+    {
+        "name": "Echternach",
+        "country": "Luxembourg","color":"yellow"
+        ,"population": 50 ,
+        "coordinates": [
+            49.8056,
+            6.4222
+        ]
+    },
+    {
+        "name": "Mersch",
+        "country": "Luxembourg","color":"yellow"
+        ,"population": 50 ,
+        "coordinates": [
+            49.7489,
+            6.1061
+        ]
+    },
+    {
+        "name": "Redange-sur-Attert",
+        "country": "Luxembourg","color":"yellow"
+        ,"population": 50 ,
+        "coordinates": [
+            49.7656,
+            5.8908
+        ]
+    },
+    {
+        "name": "Vianden",
+        "country": "Luxembourg","color":"yellow"
+        ,"population": 50 ,
+        "coordinates": [
+            49.935,
+            6.2089
+        ]
+    },
+    {
+        "name": "Wiltz",
+        "country": "Luxembourg","color":"yellow"
+        ,"population": 50 ,
+        "coordinates": [
+            49.9689,
+            5.9319
+        ]
+    },
+    {
+        "name": "Clervaux",
+        "country": "Luxembourg","color":"yellow"
+        ,"population": 50 ,
+        "coordinates": [
+            50.0547,
+            6.0314
+        ]
+    },
+    {
+        "name": "Diekirch",
+        "country": "Luxembourg","color":"yellow"
+        ,"population": 6242,
+        "coordinates": [
+            49.8833,
+            6.1667
+        ]
+    },
+    {
+        "name": "Grevenmacher",
+        "country": "Luxembourg","color":"yellow"
+        ,"population": 3958,
+        "coordinates": [
+            49.7,
+            6.3333
+        ]
+    },
+    {
+        "name": "Luxembourg",
+        "country": "Luxembourg","color":"yellow"
+        ,"population": 107260,
+        "coordinates": [
+            49.6117,
+            6.13
+        ]
+    },
+    {
+        "name": "Auce",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50 ,
+        "coordinates": [
+            56.4611,
+            22.9028
+        ]
+    },
+    {
+        "name": "Daugavpils",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 111564,
+        "coordinates": [
+            55.88,
+            26.51
+        ]
+    },
+    {
+        "name": "JÄ“kabpils",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50 ,
+        "coordinates": [
+            56.4833,
+            25.85
+        ]
+    },
+    {
+        "name": "SalacgrÄ«va",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50 ,
+        "coordinates": [
+            57.7531,
+            24.359
+        ]
+    },
+    {
+        "name": "Ventspils",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 42884,
+        "coordinates": [
+            57.3899,
+            21.5606
+        ]
+    },
+    {
+        "name": "Dundaga",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.505,
+            22.3504
+        ]
+    },
+    {
+        "name": "Jaunjelgava",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.6132,
+            25.0832
+        ]
+    },
+    {
+        "name": "Nereta",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.2044,
+            25.3077
+        ]
+    },
+    {
+        "name": "Alsunga",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.9801,
+            21.564
+        ]
+    },
+    {
+        "name": "KuldÄ«ga",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.969,
+            21.968
+        ]
+    },
+    {
+        "name": "PÄvilosta",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.8898,
+            21.1817
+        ]
+    },
+    {
+        "name": "PiÅ†Ä·i",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.9419,
+            23.9137
+        ]
+    },
+    {
+        "name": "Ä€daÅ¾i",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.0705,
+            24.3371
+        ]
+    },
+    {
+        "name": "Kandava",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.0389,
+            22.7724
+        ]
+    },
+    {
+        "name": "Roja",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.5015,
+            22.8088
+        ]
+    },
+    {
+        "name": "Carnikava",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.1293,
+            24.2842
+        ]
+    },
+    {
+        "name": "Garkalne",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.0449,
+            24.4195
+        ]
+    },
+    {
+        "name": "Saulkrasti",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.2599,
+            24.4189
+        ]
+    },
+    {
+        "name": "SmÄrde",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.9533,
+            23.3387
+        ]
+    },
+    {
+        "name": "MÄ“rsrags",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.3364,
+            23.1235
+        ]
+    },
+    {
+        "name": "Talsi",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.2465,
+            22.5876
+        ]
+    },
+    {
+        "name": "JÅ«rmala",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.9567,
+            23.7233
+        ]
+    },
+    {
+        "name": "MÄrupe",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.9032,
+            24.0467
+        ]
+    },
+    {
+        "name": "Ulbroka",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.9363,
+            24.3039
+        ]
+    },
+    {
+        "name": "Zilupe",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.386,
+            28.1218
+        ]
+    },
+    {
+        "name": "Ludza",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.5396,
+            27.7189
+        ]
+    },
+    {
+        "name": "Dagda",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.0961,
+            27.5328
+        ]
+    },
+    {
+        "name": "Baltinava",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.9439,
+            27.644
+        ]
+    },
+    {
+        "name": "Cibla",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.5498,
+            27.8837
+        ]
+    },
+    {
+        "name": "KÄrsava",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.7874,
+            27.6732
+        ]
+    },
+    {
+        "name": "Riga",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 742572,
+        "coordinates": [
+            56.95,
+            24.1
+        ]
+    },
+    {
+        "name": "KrÄslava",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            55.8969,
+            27.172
+        ]
+    },
+    {
+        "name": "LimbaÅ¾i",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.513,
+            24.724
+        ]
+    },
+    {
+        "name": "PreiÄ¼i",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.294,
+            26.7248
+        ]
+    },
+    {
+        "name": "VecvÄrkava",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.1984,
+            26.5081
+        ]
+    },
+    {
+        "name": "IlÅ«kste",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            55.9779,
+            26.2978
+        ]
+    },
+    {
+        "name": "NÄ«ca",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.3456,
+            21.0646
+        ]
+    },
+    {
+        "name": "Bauska",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.4079,
+            24.1944
+        ]
+    },
+    {
+        "name": "ViÄ¼aka",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.1843,
+            27.6719
+        ]
+    },
+    {
+        "name": "LÄ«vÄni",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.3567,
+            26.1761
+        ]
+    },
+    {
+        "name": "AlÅ«ksne",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.4216,
+            27.0466
+        ]
+    },
+    {
+        "name": "Jaunpils",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.7314,
+            23.0125
+        ]
+    },
+    {
+        "name": "BrocÄ“ni",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.6789,
+            22.5694
+        ]
+    },
+    {
+        "name": "RugÄji",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.0033,
+            27.1337
+        ]
+    },
+    {
+        "name": "RiebiÅ†i",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.3403,
+            26.7999
+        ]
+    },
+    {
+        "name": "ViÄ¼Äni",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.5505,
+            26.9298
+        ]
+    },
+    {
+        "name": "VarakÄ¼Äni",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.6091,
+            26.7547
+        ]
+    },
+    {
+        "name": "Ape",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.5394,
+            26.694
+        ]
+    },
+    {
+        "name": "Madona",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.851,
+            26.2184
+        ]
+    },
+    {
+        "name": "Jaunpiebalga",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.1775,
+            26.0284
+        ]
+    },
+    {
+        "name": "LubÄna",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.9043,
+            26.7161
+        ]
+    },
+    {
+        "name": "Gulbene",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.1734,
+            26.7527
+        ]
+    },
+    {
+        "name": "Balvi",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.1287,
+            27.27
+        ]
+    },
+    {
+        "name": "AknÄ«ste",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.1615,
+            25.7482
+        ]
+    },
+    {
+        "name": "ViesÄ«te",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.3465,
+            25.5581
+        ]
+    },
+    {
+        "name": "Cesvaine",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.9675,
+            26.3076
+        ]
+    },
+    {
+        "name": "Ä¶egums",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.7455,
+            24.725
+        ]
+    },
+    {
+        "name": "Vecpiebalga",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.0618,
+            25.8179
+        ]
+    },
+    {
+        "name": "Smiltene",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.4242,
+            25.9017
+        ]
+    },
+    {
+        "name": "DrabeÅ¡i",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.2433,
+            25.2803
+        ]
+    },
+    {
+        "name": "CÄ“sis",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.3091,
+            25.2761
+        ]
+    },
+    {
+        "name": "Ä’rgÄ¼i",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.8988,
+            25.6429
+        ]
+    },
+    {
+        "name": "Valka",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.7767,
+            26.0118
+        ]
+    },
+    {
+        "name": "GrobiÅ†a",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.5358,
+            21.1747
+        ]
+    },
+    {
+        "name": "StrenÄi",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.6269,
+            25.6919
+        ]
+    },
+    {
+        "name": "MÅ«rmuiÅ¾a",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.4731,
+            25.4917
+        ]
+    },
+    {
+        "name": "Mazsalaca",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.8619,
+            25.0547
+        ]
+    },
+    {
+        "name": "Aloja",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.7672,
+            24.8774
+        ]
+    },
+    {
+        "name": "Burtnieki",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.6949,
+            25.275
+        ]
+    },
+    {
+        "name": "Koknese",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.6516,
+            25.4364
+        ]
+    },
+    {
+        "name": "Aizkraukle",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.6029,
+            25.2636
+        ]
+    },
+    {
+        "name": "SkrÄ«veri",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.6485,
+            25.1195
+        ]
+    },
+    {
+        "name": "Baldone",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.7445,
+            24.4008
+        ]
+    },
+    {
+        "name": "Vecumnieki",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.6061,
+            24.5223
+        ]
+    },
+    {
+        "name": "Sala",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.5047,
+            25.7618
+        ]
+    },
+    {
+        "name": "PÄ¼aviÅ†as",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.6177,
+            25.7194
+        ]
+    },
+    {
+        "name": "Liepaga",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 85132,
+        "coordinates": [
+            56.51,
+            21.01
+        ]
+    },
+    {
+        "name": "RÅ«jiena",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.8961,
+            25.3342
+        ]
+    },
+    {
+        "name": "NaukÅ¡Ä“ni",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.8842,
+            25.458
+        ]
+    },
+    {
+        "name": "LieÄ£i",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.5797,
+            21.3338
+        ]
+    },
+    {
+        "name": "Rauna",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.3337,
+            25.6085
+        ]
+    },
+    {
+        "name": "Aizpute",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.7211,
+            21.6016
+        ]
+    },
+    {
+        "name": "KocÄ“ni",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.5198,
+            25.3404
+        ]
+    },
+    {
+        "name": "Valmiera",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.5387,
+            25.4257
+        ]
+    },
+    {
+        "name": "Sigulda",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.1538,
+            24.8595
+        ]
+    },
+    {
+        "name": "PriekuÄ¼i",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.3115,
+            25.3571
+        ]
+    },
+    {
+        "name": "Ogre",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.8113,
+            24.6113
+        ]
+    },
+    {
+        "name": "Ragana",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.1821,
+            24.7056
+        ]
+    },
+    {
+        "name": "Loja",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.1534,
+            24.6433
+        ]
+    },
+    {
+        "name": "RopaÅ¾i",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.9747,
+            24.6329
+        ]
+    },
+    {
+        "name": "Priekule",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.4458,
+            21.5939
+        ]
+    },
+    {
+        "name": "Iecava",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.5977,
+            24.2076
+        ]
+    },
+    {
+        "name": "Rucava",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.164,
+            21.1627
+        ]
+    },
+    {
+        "name": "PilsrundÄle",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.4181,
+            24.0162
+        ]
+    },
+    {
+        "name": "Salaspils",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.861,
+            24.3498
+        ]
+    },
+    {
+        "name": "IkÅ¡Ä·ile",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.834,
+            24.4968
+        ]
+    },
+    {
+        "name": "LielvÄrde",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.7213,
+            24.8062
+        ]
+    },
+    {
+        "name": "InÄukalns",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.0987,
+            24.6863
+        ]
+    },
+    {
+        "name": "MÄlpils",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.0101,
+            24.9578
+        ]
+    },
+    {
+        "name": "Olaine",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.7947,
+            23.9358
+        ]
+    },
+    {
+        "name": "Ä¶ekava",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.8296,
+            24.2318
+        ]
+    },
+    {
+        "name": "LÄ«gatne",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.2379,
+            25.0436
+        ]
+    },
+    {
+        "name": "Stalbe",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            57.3708,
+            25.0324
+        ]
+    },
+    {
+        "name": "Jelgava",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 67207,
+        "coordinates": [
+            56.6527,
+            23.7128
+        ]
+    },
+    {
+        "name": "Skrunda",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.6775,
+            22.0165
+        ]
+    },
+    {
+        "name": "VaiÅ†ode",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.4185,
+            21.8541
+        ]
+    },
+    {
+        "name": "Saldus",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.6666,
+            22.4935
+        ]
+    },
+    {
+        "name": "Tukums",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.9676,
+            23.1555
+        ]
+    },
+    {
+        "name": "TÄ“rvete",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.4798,
+            23.3902
+        ]
+    },
+    {
+        "name": "Dobele",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.6237,
+            23.2751
+        ]
+    },
+    {
+        "name": "RÄ“zekne",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 38340,
+        "coordinates": [
+            56.5,
+            27.3166
+        ]
+    },
+    {
+        "name": "Aglona",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.1327,
+            27.0068
+        ]
+    },
+    {
+        "name": "Ozolnieki",
+        "country": "Latvia","color":"#1D5100"
+        ,"population": 50,
+        "coordinates": [
+            56.6899,
+            23.7761
+        ]
+    },
+    {
+        "name": "Tripoli",
+        "country": "Libya","color":"gray"
+        ,"population": 2189000,
+        "coordinates": [
+            32.8925,
+            13.18
+        ]
+    },
+    {
+        "name": "Al â€˜AzÄ«zÄ«yah",
+        "country": "Libya","color":"gray"
+        ,"population": 50,
+        "coordinates": [
+            32.5319,
+            13.0175
+        ]
+    },
+    {
+        "name": "Zuwarah",
+        "country": "Libya","color":"gray"
+        ,"population": 180310,
+        "coordinates": [
+            32.9344,
+            12.0791
+        ]
+    },
+    {
+        "name": "Al Khums",
+        "country": "Libya","color":"gray"
+        ,"population": 201943,
+        "coordinates": [
+            32.6604,
+            14.26
+        ]
+    },
+    {
+        "name": "As Sidr",
+        "country": "Libya","color":"gray"
+        ,"population": 50,
+        "coordinates": [
+            30.6704,
+            18.2666
+        ]
+    },
+    {
+        "name": "Ghadamis",
+        "country": "Libya","color":"gray"
+        ,"population": 6623,
+        "coordinates": [
+            30.1333,
+            9.5
+        ]
+    },
+    {
+        "name": "Dirj",
+        "country": "Libya","color":"gray"
+        ,"population": 931,
+        "coordinates": [
+            30.1679,
+            10.4567
+        ]
+    },
+    {
+        "name": "Nalut",
+        "country": "Libya","color":"gray"
+        ,"population": 66609,
+        "coordinates": [
+            31.8804,
+            10.97
+        ]
+    },
+    {
+        "name": "Umm al Abid",
+        "country": "Libya","color":"gray"
+        ,"population": 300,
+        "coordinates": [
+            27.517,
+            15.0333
+        ]
+    },
+    {
+        "name": "Sabha",
+        "country": "Libya","color":"gray"
+        ,"population": 100249,
+        "coordinates": [
+            27.0333,
+            14.4333
+        ]
+    },
+    {
+        "name": "Birak",
+        "country": "Libya","color":"gray"
+        ,"population": 45421,
+        "coordinates": [
+            27.5333,
+            14.2834
+        ]
+    },
+    {
+        "name": "IdrÄ«",
+        "country": "Libya","color":"gray"
+        ,"population": 50,
+        "coordinates": [
+            27.4471,
+            13.0517
+        ]
+    },
+    {
+        "name": "Zillah",
+        "country": "Libya","color":"gray"
+        ,"population": 10,
+        "coordinates": [
+            28.5504,
+            17.5834
+        ]
+    },
+    {
+        "name": "Hun",
+        "country": "Libya","color":"gray"
+        ,"population": 18878,
+        "coordinates": [
+            29.1167,
+            15.9333
+        ]
+    },
+    {
+        "name": "Az Zawiyah",
+        "country": "Libya","color":"gray"
+        ,"population": 200000,
+        "coordinates": [
+            32.7604,
+            12.72
+        ]
+    },
+    {
+        "name": "Awjilah",
+        "country": "Libya","color":"gray"
+        ,"population": 6610,
+        "coordinates": [
+            29.108,
+            21.2869
+        ]
+    },
+    {
+        "name": "El Agheila",
+        "country": "Libya","color":"gray"
+        ,"population": 100,
+        "coordinates": [
+            30.257,
+            19.2
+        ]
+    },
+    {
+        "name": "Maradah",
+        "country": "Libya","color":"gray"
+        ,"population": 2500,
+        "coordinates": [
+            29.2337,
+            19.2166
+        ]
+    },
+    {
+        "name": "Ajdabiya",
+        "country": "Libya","color":"gray"
+        ,"population": 143833,
+        "coordinates": [
+            30.77,
+            20.22
+        ]
+    },
+    {
+        "name": "Darnah",
+        "country": "Libya","color":"gray"
+        ,"population": 127974,
+        "coordinates": [
+            32.7648,
+            22.6391
+        ]
+    },
+    {
+        "name": "Al Jaghbub",
+        "country": "Libya","color":"gray"
+        ,"population": 1744,
+        "coordinates": [
+            29.7504,
+            24.5166
+        ]
+    },
+    {
+        "name": "Mizdah",
+        "country": "Libya","color":"gray"
+        ,"population": 26107,
+        "coordinates": [
+            31.4337,
+            12.9833
+        ]
+    },
+    {
+        "name": "Gharyan",
+        "country": "Libya","color":"gray"
+        ,"population": 146810,
+        "coordinates": [
+            32.1704,
+            13.02
+        ]
+    },
+    {
+        "name": "Tubruq",
+        "country": "Libya","color":"gray"
+        ,"population": 263527,
+        "coordinates": [
+            32.08,
+            23.96
+        ]
+    },
+    {
+        "name": "Shahhat",
+        "country": "Libya","color":"gray"
+        ,"population": 45000,
+        "coordinates": [
+            32.8281,
+            21.8622
+        ]
+    },
+    {
+        "name": "Tajarhi",
+        "country": "Libya","color":"gray"
+        ,"population": 1500,
+        "coordinates": [
+            24.3704,
+            14.4708
+        ]
+    },
+    {
+        "name": "Al Bayda",
+        "country": "Libya","color":"gray"
+        ,"population": 1794,
+        "coordinates": [
+            32.7604,
+            21.62
+        ]
+    },
+    {
+        "name": "Ghat",
+        "country": "Libya","color":"gray"
+        ,"population": 24347,
+        "coordinates": [
+            24.9647,
+            10.1728
+        ]
+    },
+    {
+        "name": "Tmassah",
+        "country": "Libya","color":"gray"
+        ,"population": 500,
+        "coordinates": [
+            26.3666,
+            15.8
+        ]
+    },
+    {
+        "name": "Marzuq",
+        "country": "Libya","color":"gray"
+        ,"population": 55071,
+        "coordinates": [
+            25.9044,
+            13.8972
+        ]
+    },
+    {
+        "name": "Al Marj",
+        "country": "Libya","color":"gray"
+        ,"population": 169540,
+        "coordinates": [
+            32.5005,
+            20.83
+        ]
+    },
+    {
+        "name": "Surt",
+        "country": "Libya","color":"gray"
+        ,"population": 128123,
+        "coordinates": [
+            31.21,
+            16.59
+        ]
+    },
+    {
+        "name": "Bani Walid",
+        "country": "Libya","color":"gray"
+        ,"population": 65392,
+        "coordinates": [
+            31.7704,
+            13.99
+        ]
+    },
+    {
+        "name": "AwbÄrÄ«",
+        "country": "Libya","color":"gray"
+        ,"population": 50,
+        "coordinates": [
+            26.5903,
+            12.7751
+        ]
+    },
+    {
+        "name": "Al Jawf",
+        "country": "Libya","color":"gray"
+        ,"population": 24132,
+        "coordinates": [
+            24.2,
+            23.29
+        ]
+    },
+    {
+        "name": "Al Kufrah",
+        "country": "Libya","color":"gray"
+        ,"population": 50,
+        "coordinates": [
+            24.1667,
+            23.2696
+        ]
+    },
+    {
+        "name": "Qaminis",
+        "country": "Libya","color":"gray"
+        ,"population": 5348,
+        "coordinates": [
+            31.6606,
+            20.0155
+        ]
+    },
+    {
+        "name": "Banghazi",
+        "country": "Libya","color":"gray"
+        ,"population": 1180000,
+        "coordinates": [
+            32.1167,
+            20.0667
+        ]
+    },
+    {
+        "name": "Misratah",
+        "country": "Libya","color":"gray"
+        ,"population": 386120,
+        "coordinates": [
+            32.38,
+            15.1
+        ]
+    }
+]
