@@ -79,9 +79,9 @@ export const HeaderTest = () => {
                 </Dropdown>
                 <Dropdown text="Community" pointing icon="false" className="link item">
                   <Dropdown.Menu>
-                          <Dropdown.Item>Join the iTribe Global Community</Dropdown.Item>
-                          <Dropdown.Item>Create Your Personal Page</Dropdown.Item>
-                          <Dropdown.Item>Contact Rabbi Harry</Dropdown.Item>
+                          <Dropdown.Item>iTribe Global Community</Dropdown.Item>
+                          <Dropdown.Item>Personal Page</Dropdown.Item>
+                          <Dropdown.Item>Contact Us</Dropdown.Item>
                           <Dropdown.Item>FAQ</Dropdown.Item>
                   </Dropdown.Menu>
                 </Dropdown>
@@ -89,7 +89,7 @@ export const HeaderTest = () => {
                   <Dropdown.Menu>
                           <Dropdown.Item>Newsletter</Dropdown.Item>
                           <Dropdown.Item>Projects</Dropdown.Item>
-                          <Dropdown.Item>Updates on New Communities</Dropdown.Item>
+                          <Dropdown.Item>New Communities</Dropdown.Item>
                           <Dropdown.Item>Events</Dropdown.Item>
                   </Dropdown.Menu>
                 </Dropdown>

@@ -2,4 +2,7 @@ html, body, #container /*, and all other map parent selectors*/ {
   height: 100%;
   /* overflow: hidden; */
   width: 100%;
+  /* font-family: europa, sans-serif;
+font-style: normal;
+font-weight: 700; */
 }

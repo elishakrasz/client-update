@@ -31,7 +31,8 @@ export class SimpleMap extends Component {
         style={{
             width: 'auto',
             height: '750px',
-            backgroundColor: '#F3F6FA'
+            backgroundColor: 'white'
+            // backgroundColor: '#F3F6FA'
         }}
         center={[50, 20]}
         zoom={2}
