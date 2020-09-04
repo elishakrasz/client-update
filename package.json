@@ -31,7 +31,7 @@
     "leaflet.awesome-markers": "^2.0.5",
     "moment": "^2.24.0",
     "nuka-carousel": "^4.5.8",
-    "papaparse": "^5.0.0",
+    "papaparse": "^5.2.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-apollo": "^2.5.5",
